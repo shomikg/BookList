@@ -1,6 +1,6 @@
 # Books I've read so far
 
-Live on - https://shomikg.github.io/Number-Game/
+Live on - https://shomikg.github.io/BookList/
 A short interactive app developed using Vanilla JS to keep a track of all the books you've read so far.
 
 ![Web application with text input values inputted](screenshot.JPG)
